@@ -71,3 +71,7 @@
     background: var(--color-primary);
     padding: 4px 15px;
 }
+
+.link:hover {
+    scale: 105%;
+}
