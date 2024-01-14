@@ -1,0 +1,23 @@
+[
+    {
+        "title": "AED Software Simulation",
+        "image": "projects/project1.png",
+        "description": "Design and development a software simulation for the AED Plus device utilizing Qt framework, incorporating signals, slots, and timers for effective communication and functionality to demonstrate core AED Plus features for user interaction during cardiac emergencies",
+        "skills": ["QT", "C++"],
+        "source": "https://github.com/annasmahgoub/AED-Simulator"
+    },
+    {
+        "title": "Web Crawler",
+        "image": "projects/project2.png",
+        "description": "Developed a Python-based web crawler proficiently designed to navigate through 1000 pages, showcasing efficiency in web traversal and data extraction. Designed an intuitive browser-based client interface enabling users to perform searches, customize search options, and view detailed search results effortlessly.",
+        "skills": ["Python", "HTML", "Css", "JavaScript"],
+        "source": "https://github.com/annasmahgoub/WebCrawler"
+    },
+    {
+        "title": "Pierre's Poutine Delivery System",
+        "image": "projects/project3.png",
+        "description": "Developed a delivery system for Pierre’s Poutine franchise using C++ by utilized a Queue data structure for order management to track and assign deliveries efficiently for multiple franchise locations and delivery drivers",
+        "skills": ["C++"],
+        "source": "https://github.com/annasmahgoub/PierresPoutine"
+    }
+]
